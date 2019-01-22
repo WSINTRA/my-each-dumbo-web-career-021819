@@ -5,5 +5,5 @@ def my_each(array)
       newArray << array[i]
       i +=1
   end
-  # code here
+   newArray  # code here
 end
