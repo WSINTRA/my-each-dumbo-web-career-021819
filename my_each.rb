@@ -6,7 +6,7 @@ def my_each(array)
     yield
     puts newArray[newArray.length-1]
     i += 1
-    
+
   end
 
    newArray  # code here
