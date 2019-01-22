@@ -5,7 +5,7 @@ def my_each(array)
     newArray << array[i]
     i += 1
   end
-
+   newArray.each do |x| puts newArray[x]
    newArray  # code here
 end
 
