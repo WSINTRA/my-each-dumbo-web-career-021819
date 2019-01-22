@@ -3,8 +3,6 @@ def my_each(array)
   newArray = []
   while i < array.length
     newArray << array[i]
-    yield
-    puts newArray[newArray.length-1]
     i += 1
 
   end
