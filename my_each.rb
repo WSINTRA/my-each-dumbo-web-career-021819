@@ -6,6 +6,7 @@ def my_each(array)
     i += 1
   end
    newArray.each do |x| puts newArray[x]
+   end
    newArray  # code here
 end
 
