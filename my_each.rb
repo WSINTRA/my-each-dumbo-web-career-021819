@@ -8,3 +8,6 @@ def my_each(array)
 
    newArray  # code here
 end
+
+rando = ["a","b","c","d","e"]
+my_each(rando)
